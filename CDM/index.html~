@@ -1,0 +1,50 @@
+<html>
+
+<head>
+<meta https-equiv="content-type" content="text/html; charset=UTF-8" >
+<title>Casas del Monte</title>
+</head>
+<style>
+        a {
+            text-decoration: none;
+        }
+    </style>
+<body bgcolor="#FFCCFF">
+
+<div >
+	<table border="1" width="100%" width="1000">
+		<tr>
+			<td>
+
+	<tr>
+		<td width="369" align="center" bgcolor="#008000">
+			<p align="center">
+            <font style="font-size: 16pt"><font color="#FFFF00">Entrar a:</font> 
+            <font color="#FF6B00" face="Book Antiqua">
+            <span style="font-weight: 700; text-decoration: underline; ">
+            <a style="text-decoration: none; font-style: italic" target="I1" href="./todocasasdelmonte/index.html">
+            <font color="#FFFFFF">Todo Casas del Monte</font></a></span></font></font></td>
+		<td align="center" bgcolor="#FFFFFF">
+<font face="Bradley Hand ITC" size="5" color="#008000">
+		<a target="_top"  style="text-decoration: none; font-weight: 700">
+		<font color="#008000">Casas del Monte</font></a></font></td>
+		<td align="center" width="392" bgcolor="#000000"><p align="center">
+            <font style="font-size: 16pt"><font color="#00FFFF">Entrar a:</font> 
+            <font color="#FF6B00" face="Book Antiqua">
+            <span style="font-weight: 700; text-decoration: underline; ">
+            <a style="text-decoration: none; font-style: italic" target="I1" href="./todocasasdelmonte/index.html">
+            <font color="#FFFFFF">Cosas de Casas del Monte</font></a></span></font></font></td>
+	</tr>
+</table>
+<p align="center">
+<iframe name="I1" src="indexB.html" align="center" width="100%" height="20002" border="0" frameborder="0" target="_blank" marginwidth="1" marginheight="1" scrolling="no">
+</iframe></p>
+
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
