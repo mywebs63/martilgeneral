@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Farmacia Paseo del Prado</title>
+	
+	<style>
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body lang="es-ES" link="#0000ff" vlink="#0000ff" bgcolor="#48A84D" dir="ltr">
+<div align="center">
+<h1><font size="5" color="#ffff00">Farmacia Paseo del Prado, Villaluenga de la Sagra</font></h1>
+
+<div id="page1-div" dir="ltr"><p><a href="https://maps.app.goo.gl/6RWRSUP5vawtnHmQ9">
+  <img src="Farmablanc001.png" name="FARMACIA" alt="background image" align="bottom" width="90%" height="90%" border="0"/>
+</a>
+<a href="https://maps.app.goo.gl/6RWRSUP5vawtnHmQ9">
+	</a>
+	</p>
+			<p align="center"><a href="https://sescam.jccm.es/misaluddigital/app/inicio"><font color="#ffff00"><font size="6" style="font-size: 35pt"><b>Encuentra tu Farmacia
+	de guardia</b></font></font></a></p>
+<p><br/>
+	</div>
+<p><img src="Farmacia%209.jpg" name="Imagen8" align="right" width="90%" height="90%" border="5%"/>
+</p>
+
+<p><img src="Farmacia%202.jpg" name="Imagen2" align="left" width="50%" height="50%" border="2"/>
+</img>
+<img src="Farmacia%207.jpg" name="Imagen7" align="right" width="50%" height="50%" border="2"/>
+</p>
+<p><img src="Farmacia%201.jpg" name="Imagen1" align="left" width="50%" height="50%" border="2"/>
+<img src="Farmacia%203.jpg" name="Imagen3" align="right" width="50%" height="50%" border="2"/>
+</img>
+</p>
+<p><img src="Farmacia%204.jpg" name="Imagen4" align="left" width="50%" height="50%" border="2"/>
+<img src="Farmacia%205.jpg" name="Imagen5" align="right" width="50%" height="50%" border="2"/>
+</p>
+
+</body>
+</html>
